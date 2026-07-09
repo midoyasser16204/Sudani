@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "375579772921",
+    "project_id": "sudani-5e662",
+    "storage_bucket": "sudani-5e662.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375579772921:android:8d77ebada0d09827e51f28",
+        "android_client_info": {
+          "package_name": "com.example.sudani_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375579772921-ivtml3idjl3173r7j6v782tpn3ohcq7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudani_app",
+            "certificate_hash": "a1b8199de21c1ece895641ecfd063d2421c56456"
+          }
+        },
+        {
+          "client_id": "375579772921-q21eh5afq0o9092mn9l0aldte573a6mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjC3S2ZTJU04EOo98wBp5b1MaEhmr2bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375579772921-2bmr3m417ug90h9upnqb8fuo8hp3qrqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375579772921-s4srvasu4kgrju7bgqnm62aev1stt13n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sudaniApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
