@@ -106,8 +106,9 @@ class _LoginScreenState extends State<LoginScreen> {
                       Expanded(
                         child: Stack(
                           children: [
-                            MainContainer(
-                              child: SingleChildScrollView(
+                            Positioned.fill(
+                              child: MainContainer(
+                                child: SingleChildScrollView(
                                 physics: const BouncingScrollPhysics(),
                                 child: Padding(
                                   padding: EdgeInsets.symmetric(horizontal: 30.w),
@@ -171,6 +172,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                   ),
                                 ),
                               ),
+                            ),
                             ),
                             if (authState is AuthLoading)
                               Container(

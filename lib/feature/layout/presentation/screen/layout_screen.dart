@@ -63,7 +63,7 @@ class _LayoutScreenState extends State<LayoutScreen> {
                     ),
                   ),
 
-                  MainContainer(child: screens[currentIndex])
+                  Expanded(child: MainContainer(child: screens[currentIndex]))
                 ],
               ),
             ),
