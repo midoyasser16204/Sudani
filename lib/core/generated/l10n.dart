@@ -448,6 +448,11 @@ class S {
       args: [],
     );
   }
+
+  /// `h`
+  String get h {
+    return Intl.message('h', name: 'h', desc: '', args: []);
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {

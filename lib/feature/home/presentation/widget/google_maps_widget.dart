@@ -4,9 +4,9 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import '../../../../core/constants/assets.dart';
+import '../../../../core/generated/l10n.dart';
 import '../../../../core/theme/app_color.dart';
 import '../../../../core/utils/map_marker_helper.dart';
-import '../../../../generated/l10n.dart';
 import '../cubit/location_cubit.dart';
 import '../cubit/location_state.dart';
 

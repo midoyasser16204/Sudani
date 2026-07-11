@@ -52,6 +52,7 @@ class MessageLookup extends MessageLookupByLibrary {
       "Emergency Balance",
     ),
     "forgotPassword": MessageLookupByLibrary.simpleMessage("Forgot Password?"),
+    "h": MessageLookupByLibrary.simpleMessage("h"),
     "helloMohamed": MessageLookupByLibrary.simpleMessage("Hello Mohamed"),
     "home": MessageLookupByLibrary.simpleMessage("Home"),
     "incompleteWorkingHours": MessageLookupByLibrary.simpleMessage(

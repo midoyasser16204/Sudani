@@ -50,6 +50,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "emailTitle": MessageLookupByLibrary.simpleMessage("البريد الإلكتروني"),
     "emergencyBalance": MessageLookupByLibrary.simpleMessage("رصيد العارضة"),
     "forgotPassword": MessageLookupByLibrary.simpleMessage("نسيت كلمة المرور؟"),
+    "h": MessageLookupByLibrary.simpleMessage("h"),
     "helloMohamed": MessageLookupByLibrary.simpleMessage("أهلاً محمد"),
     "home": MessageLookupByLibrary.simpleMessage("الرئيسية"),
     "incompleteWorkingHours": MessageLookupByLibrary.simpleMessage(

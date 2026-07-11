@@ -47,5 +47,5 @@
   "validatorEmailInvalid": "Enter a valid email address",
   "validatorPasswordTooShort": "Password must be at least 8 characters long",
   "validatorPasswordNoLowercase": "Password must contain at least one lowercase letter",
-  "validatorPasswordNoNumber": "Password must contain at least one number"
+  "validatorPasswordNoNumber": "Password must contain at least one number",
 }

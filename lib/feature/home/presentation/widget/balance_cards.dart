@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import '../../../../generated/l10n.dart';
+import '../../../../core/generated/l10n.dart';
 import 'info_card.dart';
 
 class BalanceCards extends StatelessWidget {

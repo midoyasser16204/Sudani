@@ -7,10 +7,10 @@ import 'package:sudani_app/core/di/dependency_injection.dart';
 import 'package:sudani_app/core/resources/font_constants.dart';
 import 'package:sudani_app/core/theme/app_style.dart';
 import '../../../../core/constants/assets.dart';
+import '../../../../core/generated/l10n.dart';
 import '../../../../core/routes/route_center.dart';
 import '../../../../core/theme/app_color.dart';
 import '../../../../core/widgets/custom_dialog.dart';
-import '../../../../generated/l10n.dart';
 import '../../../auth/presentation/cubit/auth_cubit.dart';
 import '../../../auth/presentation/cubit/auth_state.dart';
 

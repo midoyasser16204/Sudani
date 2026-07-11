@@ -47,5 +47,5 @@
   "validatorEmailInvalid": "أدخل عنوان بريد إلكتروني صحيح",
   "validatorPasswordTooShort": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
   "validatorPasswordNoLowercase": "يجب أن تحتوي كلمة المرور على حرف صغير واحد على الأقل",
-  "validatorPasswordNoNumber": "يجب أن تحتوي كلمة المرور على رقم واحد على الأقل"
+  "validatorPasswordNoNumber": "يجب أن تحتوي كلمة المرور على رقم واحد على الأقل",
 }

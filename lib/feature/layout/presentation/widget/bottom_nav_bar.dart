@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import '../../../../core/constants/assets.dart';
+import '../../../../core/generated/l10n.dart';
 import '../../../../core/theme/app_color.dart';
-import '../../../../generated/l10n.dart';
 import 'bottom_nav_item.dart';
 
 class BottomNavBar extends StatelessWidget {

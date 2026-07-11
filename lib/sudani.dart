@@ -5,8 +5,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'core/constants/strings.dart';
 import 'core/cubit/locale_cubit.dart';
 import 'core/di/dependency_injection.dart';
+import 'core/generated/l10n.dart';
 import 'core/routes/app_router.dart';
-import 'generated/l10n.dart';
 
 class Sudani extends StatelessWidget {
   const Sudani({super.key});

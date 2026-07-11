@@ -2,9 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:sudani_app/core/resources/font_constants.dart';
 import 'package:sudani_app/core/theme/app_style.dart';
-import 'package:sudani_app/generated/l10n.dart';
-
 import '../../../../core/constants/assets.dart';
+import '../../../../core/generated/l10n.dart';
 import '../../../../core/theme/app_color.dart';
 
 class LanguageSwitcher extends StatelessWidget {

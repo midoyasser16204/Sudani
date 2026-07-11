@@ -35,6 +35,8 @@ lib/
  │    ├── cubit/        # Global states
  │    ├── di/           # Dependency injection setup (GetIt)
  │    ├── error/        # Error handling & failures
+ │    ├── generated/    # Code generation outputs
+ │    ├── l10n/         # Localization files (.arb)
  │    ├── routes/       # GoRouter configurations
  │    ├── services/     # Global services
  │    ├── theme/        # App themes and typography
@@ -48,8 +50,6 @@ lib/
  │    ├── layout/       # Main app layout shell
  │    └── splash/       # Splash screen logic
  │
- ├── generated/         # Code generation outputs
- ├── l10n/              # Localization files (.arb)
  ├── main.dart          # Entry point
  └── sudani.dart        # Main App widget
 ```
@@ -89,7 +89,7 @@ lib/
 ## 🌐 Localization
 
 The app uses `flutter_intl` for localization. To add or modify translations:
-1. Update the `.arb` files inside the `lib/l10n/` directory.
+1. Update the `.arb` files inside the `lib/core/l10n/` directory.
 2. The generated localization files will update automatically, or you can trigger generation using the Flutter Intl IDE plugin.
 
 ## 🤝 Contributing
